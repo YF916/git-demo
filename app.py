@@ -7,3 +7,5 @@ def multiply(a, b):
 
 def subtract(a, b):
     return a - b
+def login():
+    print("Login")
